@@ -14,12 +14,12 @@ To build and run the project, follow these steps:
    cd Shared_ptr
    ```
 
-2. Build the project
+2. **Build the project**
    ```bash
    cmake -S . -B build
    cmake --build build --config Release
-  ```
-5. **Run the executable**
+   ```
+3. **Run the executable**
 
    ```bash
    ./build/Shared_ptr
